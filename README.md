@@ -40,7 +40,7 @@ Visualization: Interactive charts comparing Actual vs. Predicted prices using ma
 **Clone the repository:**
 
 Bash
-git clone https://github.com/your-username/top-10-shares-prediction.git
+[https://github.com/Jagruti2409/Top-10-Best-Shares-Prediction-April-2026-./blob/main/README.md]
 **Install dependencies:
 **
 Bash
