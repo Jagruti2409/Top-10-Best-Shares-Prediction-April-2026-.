@@ -3,8 +3,6 @@
 Top 10 Indian Shares Prediction (April 2026)
 This project performs a comprehensive technical analysis and price prediction for the top 10 Indian stocks. It uses historical market data to train an XGBoost Regressor to predict future stock prices and provide "BUY/SELL" signals based on model outputs.
 
-**📈 Performance MetricsThe model was evaluated against April 2026 market data**. Key performance indicators (KPIs) include:Stock TickerPrediction AccuracyR-SquaredMAE (INR)RELIANCE97.33%0.791437.18TCS96.85%0.8588118.72LICI98.28%0.773714.68HINDUNILVR98.18%0.789946.63Dataset Insights:Historical Depth: 10 years of data (2016–2026).Total Records: 2,530 rows per share.Top Volume Handled: 48M+ (HDFCBANK).
-
 **📈 Project Overview**
 The project analyzes approximately 10 years of historical data (from 2016 to 2026) for the leading tickers on the National Stock Exchange (NSE).
 
